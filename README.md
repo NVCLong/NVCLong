@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a computer science student at HCMIU<br>My major is web development and back-end server Node.Js and Java Swing
+I'm currently working as a computer science student at HCMIU<br>My main job is software developer, working as a back-end developer with tools like Node.Js and Java Springboot, and DevOps engineer.
 
 
 ## 🌐 Socials:
